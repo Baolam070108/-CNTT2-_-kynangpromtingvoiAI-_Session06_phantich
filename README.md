@@ -1,0 +1,1 @@
+# -CNTT2-_-kynangpromtingvoiAI-_Session06_phantich
