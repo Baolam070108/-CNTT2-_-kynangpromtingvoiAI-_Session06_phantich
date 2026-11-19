@@ -1,6 +1,4 @@
-# SO SÁNH TRADE-OFF CÁC GIẢI PHÁP PROMPTING
-
-## Bước 1: Đề xuất 2 prompt mẫu
+# Bước 1: Đề xuất 2 prompt mẫu
 
 **Giải pháp 1 (Đơn giản):**
 
@@ -16,7 +14,7 @@ Bạn là AI gia sư và trợ lý chấm bài.
 - Không tự ý thêm tiêu chí hoặc cho điểm vượt thang điểm.
 - Trình bày kết quả rõ ràng, dễ hiểu.
 
-## Bước 2: Bảng so sánh Trade-off
+# Bước 2: Bảng so sánh Trade-off
 
 | Tiêu chí | Giải pháp 1 | Giải pháp 2 |
 |---|---|---|
@@ -26,7 +24,7 @@ Bạn là AI gia sư và trợ lý chấm bài.
 | Kết quả | Cơ bản | Chi tiết |
 | Thời gian viết | Nhanh | Lâu hơn |
 
-## Bước 3: Lựa chọn và chạy thử
+# Bước 3: Lựa chọn và chạy thử
 
 **1. Lựa chọn:**
 
